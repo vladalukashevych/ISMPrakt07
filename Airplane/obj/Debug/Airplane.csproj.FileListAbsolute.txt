@@ -1,0 +1,6 @@
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\obj\Debug\Airplane.csproj.AssemblyReference.cache
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\bin\Debug\Airplane.dll
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\bin\Debug\Airplane.pdb
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\obj\Debug\Airplane.dll
+C:\Users\Vlada\source\repos\ISMPrakt07\Airplane\obj\Debug\Airplane.pdb
